@@ -1,6 +1,7 @@
 # STM32WBA6-Demo-Workshop
 In this workshop, ST experts introduce STM32WBA6, the latest high-end wireless MCU offering the richest functionalities in the series.
 
+
 This repository integrates the full PDF material used during [STM32WBA6 Demo Workshop event](https://content.st.com/stm32wba6-workshop-emea.html) 
 
 1. Understand where the STM32WBA6 fits within the broader STM32 wireless product lineup.
