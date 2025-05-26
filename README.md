@@ -10,7 +10,7 @@ This repository integrates the full PDF material used during [STM32WBA6 Demo Wor
 4. Take a virtual RF lab tour: explore a customer project journey inside ST's RF lab.
 
 In  repository you will find the binaries used during demonstrations:
-- Demo1 : Performance
+- Demo1 : Performance - [Full project](https://github.com/stm32-hotspot/STM32WBA-BLE-performance) 
 - Demo2 : Energy efficiency
 - Demo3 : Unlocking OTA
 - Demo4 : Various 2.4GHz protocols
